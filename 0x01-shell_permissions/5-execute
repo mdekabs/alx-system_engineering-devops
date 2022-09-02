@@ -1,2 +1,2 @@
-#!/bi/bash
-chmod v+x hello
+#!/bin/bash
+chmod u+x hello
